@@ -1,0 +1,103 @@
+* {
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+header {
+    padding-top: 96px;
+    padding-bottom: 96px;
+    text-align: center;
+}
+
+h2 {
+    margin-top: 12px;
+    font-size: 48px;
+}
+
+.blog {
+    color: rgba(127, 86, 217, 1);
+    font-size: 16px;
+    font-weight: 800;
+}
+
+.subscribe {
+    margin-top: 24px;
+    color: rgba(102, 112, 133, 1);
+    font-size: 20px;
+}
+
+.select {
+    max-width: fit-content;
+    display: flex;
+    gap: 16px;
+    margin-top: 40px;
+}
+
+input {
+    padding-left: 10px;
+    width: 350px;
+    height: 48px;
+    border-color: rgba(208, 213, 221, 1);
+    border-radius: 8px;
+}
+
+button {
+    width: 118px;
+    height: 48px;
+    background-color: rgba(127, 86, 217, 1);
+    color: white;
+    border-radius: 8px;
+    border: none;
+}
+
+.privacy {
+    font-size: 14px;
+    color: rgba(102, 112, 133, 1);
+    margin-right: 15%;
+    margin-top: 8px;
+}
+
+.firstsection {
+    text-align: center;
+    
+}
+
+.main {
+    max-width: fit-content;
+    display: flex;
+    gap: 32px;
+}
+
+.uxreview {
+    text-align: left;
+    max-width: 592px;
+    height: 432px;
+}
+
+.uxreview-babies {
+    display: flex;
+    text-align: left;
+}
+
+.arrow {
+    display: flex;
+    justify-content: space-between;
+    
+    
+}
+
+
+.migrating {
+    max-width: fit-content;
+    display: flex;
+    gap: 24px;
+    text-align: left;
+}
+
+.API {
+    max-width: fit-content;
+    display: flex;
+    gap: 24px;
+    text-align: left;
+    margin-top: 24px;
+}
