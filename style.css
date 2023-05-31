@@ -77,6 +77,43 @@ button {
 .uxreview-babies {
     display: flex;
     text-align: left;
+    margin-top: 24px;
+}
+
+.firstp {
+    margin-top: 32px;
+    color: rgba(105, 65, 198, 1);
+}
+
+.arrow > h3 {
+    margin-top: 12px;
+}
+
+.secondp {
+    margin-top: 12px;
+    color: rgba(102, 112, 133, 1);
+}
+
+.design1 {
+    color: rgba(105, 65, 198, 1);
+    padding: 2px 10px;
+    background-color: rgba(249, 245, 255, 1);
+    border-radius: 16px;
+    
+}
+
+.research1 {
+    color: rgba(53, 56, 205, 1);
+    padding: 2px 10px;
+    background-color: rgba(238, 244, 255, 1);
+    border-radius: 16px;
+}
+
+.presentation1 {
+    color: rgba(193, 21, 116, 1);
+    padding: 2px 10px;
+    border-radius: 16px;
+    background-color: rgba(253, 242, 250, 1);
 }
 
 .arrow {
@@ -84,6 +121,11 @@ button {
     justify-content: space-between;
     
     
+}
+
+.baby {
+    display: flex;
+    flex-direction: column;
 }
 
 
@@ -94,10 +136,78 @@ button {
     text-align: left;
 }
 
+.migrating1 {
+    color: rgba(105, 65, 198, 1);
+}
+
+.migratinginfo > h3 {
+    margin-top: 12px;
+    line-height: 24px;
+    font-size: 18px;
+}
+
+.migrating2 {
+    margin-top: 8px;
+    color: rgba(102, 112, 133, 1);
+}
+
+.migrating-babies {
+    display: flex;
+    margin-top: 24px;
+}
+
+.design2 {
+    color: rgba(53, 56, 205, 1);
+    padding: 2px 10px;
+    background-color: rgba(238, 244, 255, 1);
+    border-radius: 16px;
+}
+
+.research2 {
+    color: rgba(193, 21, 116, 1);
+    padding: 2px 10px;
+    border-radius: 16px;
+    background-color: rgba(253, 242, 250, 1);
+}
+
 .API {
     max-width: fit-content;
     display: flex;
     gap: 24px;
     text-align: left;
     margin-top: 24px;
+}
+
+.API1 {
+    color: rgba(105, 65, 198, 1);
+}
+
+.APIinfo > h3 {
+    margin-top: 12px;
+    line-height: 24px;
+    font-size: 18px;
+}
+
+.API2 {
+    margin-top: 8px;
+    color: rgba(102, 112, 133, 1);
+}
+
+.API-babies {
+    display: flex;
+    margin-top: 24px;
+}
+
+.design3 {
+    color: rgba(2, 122, 72, 1);
+    background-color: rgba(236, 253, 243, 1);
+    padding: 2px 10px;
+    border-radius: 16px;
+}
+
+.research3 {
+    color: rgba(193, 21, 116, 1);
+    padding: 2px 10px;
+    border-radius: 16px;
+    background-color: rgba(253, 242, 250, 1);
 }
