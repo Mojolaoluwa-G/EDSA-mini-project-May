@@ -57,7 +57,7 @@ button {
     margin-top: 8px;
 }
 
-.firstsection {
+.recent {
     text-align: center;
     
 }
@@ -66,6 +66,10 @@ button {
     max-width: fit-content;
     display: flex;
     gap: 32px;
+    margin-top: 32px;
+    margin-left: 140px;
+    margin-right: 0px;
+    margin-bottom: 80px;
 }
 
 .uxreview {
@@ -99,6 +103,8 @@ button {
     padding: 2px 10px;
     background-color: rgba(249, 245, 255, 1);
     border-radius: 16px;
+    margin-left: 0px;
+    margin-right: 0px;
     
 }
 
@@ -107,6 +113,8 @@ button {
     padding: 2px 10px;
     background-color: rgba(238, 244, 255, 1);
     border-radius: 16px;
+    margin-left: 10px;
+    margin-right: 0px;
 }
 
 .presentation1 {
@@ -114,12 +122,14 @@ button {
     padding: 2px 10px;
     border-radius: 16px;
     background-color: rgba(253, 242, 250, 1);
+    margin-left: 10px;
+    margin-right: 0px;
 }
 
 .arrow {
     display: flex;
     justify-content: space-between;
-    
+    gap: 375px;
     
 }
 
@@ -161,6 +171,8 @@ button {
     padding: 2px 10px;
     background-color: rgba(238, 244, 255, 1);
     border-radius: 16px;
+    margin-left: 0px;
+    margin-right: 0px;
 }
 
 .research2 {
@@ -168,6 +180,7 @@ button {
     padding: 2px 10px;
     border-radius: 16px;
     background-color: rgba(253, 242, 250, 1);
+    margin-left: 10px;
 }
 
 .API {
@@ -203,6 +216,8 @@ button {
     background-color: rgba(236, 253, 243, 1);
     padding: 2px 10px;
     border-radius: 16px;
+    margin-left: 0px;
+    margin-right: 0px;
 }
 
 .research3 {
@@ -210,4 +225,173 @@ button {
     padding: 2px 10px;
     border-radius: 16px;
     background-color: rgba(253, 242, 250, 1);
+    margin-left: 10px;
+}
+
+
+.secondmain {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 2;
+    grid-gap: 48px 32px;
+    margin-left: 140px;
+    margin-right: 140px;
+    margin-top: 32px;
+    margin-bottom: 120px;
+}
+
+.bill {
+    color: rgba(105, 65, 198, 1);
+    margin-top: 32px;
+}
+
+.walsh {
+    font-size: 24px;
+    margin-top: 12px;
+    display: flex;
+    margin-left: 0px;
+    margin-right: 0px;
+    gap: 150px;
+}
+
+.walsh > h5 {
+    margin-left: 0px;
+    margin-right: 0px;  
+}
+
+.team {
+    margin-top: 12px;
+    color: rgba(102, 112, 133, 1);
+}
+
+.secondbaby {
+    margin-top: 24px;
+    display: flex;
+    
+}
+
+.leadership {
+    color: rgba(105, 65, 198, 1);
+    padding: 2px 10px;
+    background-color: rgba(249, 245, 255, 1);
+    border-radius: 16px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.management {
+    color: rgba(54, 63, 114, 1);
+    padding: 2px 10px;
+    background-color: rgba(248, 249, 252, 1);
+    border-radius: 16px;
+    margin-left: 10px;
+    margin-right: 0px;
+}
+
+.product {
+    color: rgba(2, 106, 162, 1);
+    padding: 2px 10px;
+    background-color: rgba(240, 249, 255, 1);
+    border-radius: 16px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.research4 {
+    color: rgba(53, 56, 205, 1);
+    padding: 2px 10px;
+    background-color: rgba(238, 244, 255, 1);
+    border-radius: 16px;
+    margin-left: 10px;
+    margin-right: 0px;
+}
+
+.framework {
+    color: rgba(196, 50, 10, 1);
+    padding: 2px 10px;
+    background-color: rgba(255, 246, 237, 1);
+    border-radius: 16px;
+    margin-left: 10px;
+    margin-right: 0px;
+}
+
+.design4 {
+    color: rgba(105, 65, 198, 1);
+    padding: 2px 10px;
+    background-color: rgba(249, 245, 255, 1);
+    border-radius: 16px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.research5 {
+    color: rgba(53, 56, 205, 1);
+    padding: 2px 10px;
+    background-color: rgba(238, 244, 255, 1);
+    border-radius: 16px;
+    margin-left: 10px;
+    margin-right: 0px;
+}
+
+.design5 {
+    color: rgba(105, 65, 198, 1);
+    padding: 2px 10px;
+    background-color: rgba(249, 245, 255, 1);
+    border-radius: 16px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.research6 {
+    color: rgba(53, 56, 205, 1);
+    padding: 2px 10px;
+    background-color: rgba(238, 244, 255, 1);
+    border-radius: 16px;
+    margin-left: 10px;
+    margin-right: 0px;
+}
+
+.software {
+    color: rgba(2, 122, 72, 1);
+    padding: 2px 10px;
+    background-color: rgba(236, 253, 243, 1);
+    border-radius: 16px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.tools {
+    color: rgba(193, 21, 116, 1);
+    padding: 2px 10px;
+    background-color: rgba(253, 242, 250, 1);
+    border-radius: 16px;
+    margin-left: 10px;
+    margin-right: 0px;
+}
+
+.saas {
+    color: rgba(192, 16, 72, 1);
+    padding: 2px 10px;
+    background-color: rgba(255, 241, 243, 1);
+    border-radius: 16px;
+    margin-left: 10px;
+    margin-right: 0px;
+}
+
+.podcast {
+    color: rgba(105, 65, 198, 1);
+    padding: 2px 10px;
+    background-color: rgba(249, 245, 255, 1);
+    border-radius: 16px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.success {
+    color: rgba(54, 63, 114, 1);
+    padding: 2px 10px;
+    background-color: rgba(248, 249, 252, 1);
+    border-radius: 16px;
+    margin-left: 10px;
+    margin-right: 0px;
 }
