@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap');
+
 * {
     margin: 0 auto;
     box-sizing: border-box;
@@ -48,6 +50,7 @@ button {
     color: white;
     border-radius: 8px;
     border: none;
+    cursor: pointer;
 }
 
 .privacy {
@@ -189,6 +192,7 @@ button {
     gap: 24px;
     text-align: left;
     margin-top: 24px;
+    margin-left: 0px;
 }
 
 .API1 {
