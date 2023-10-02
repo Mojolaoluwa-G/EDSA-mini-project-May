@@ -236,7 +236,6 @@ button {
 .secondmain {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    grid-template-rows: 2;
     grid-gap: 48px 32px;
     margin-left: 140px;
     margin-right: 140px;
